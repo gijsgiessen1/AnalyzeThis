@@ -1,0 +1,20 @@
+This project is intended as a life analyzer application that is used in order 
+to find more optimal daily routines by feeding the application data points about your activity and daily satisfaction.
+The application will then give insight into what the positive and negative actions are in your life through statistics and statistical analysis.
+One of the reasons for this project is to practice my (Gijs van der Giessen's) C# and .NET skills. C# will then be locked in as a technology for this project.
+
+An important requirement for this project is that it can be used in a portable way. A person isn't always home, 
+you are not going to be able to log your activities on a desktop computer at any time.
+
+There are essentially two choices for portability: 
+
+1.) A hybrid mobile application using Xamarin. 
+2.) An easily deployable responsive web-application that fits mobile devices using ASP.NET MVC 
+
+I will choose the second option because I need flexibility. I am not completely sure what the final features will look like exactly, except the basic requirements.
+This means I want to be able to use different technologies and experiment with them. I will create an API with ASP.NET that is loosely coupled to the front-end. 
+This way, I may use JavaScript statistical and visual frameworks for the visualisation of statistics or maybe even have a loosely coupled Python service on the side.
+We will see where the journey leads, but it is a given that I need flexibility in technology.
+
+
+
