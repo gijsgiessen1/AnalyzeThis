@@ -15,6 +15,3 @@ I will choose the second option because I need flexibility. I am not completely 
 This means I want to be able to use different technologies and experiment with them. I will create an API with ASP.NET that is loosely coupled to the front-end. 
 This way, I may use JavaScript statistical and visual frameworks for the visualisation of statistics or maybe even have a loosely coupled Python service on the side.
 We will see where the journey leads, but it is a given that I need flexibility in technology.
-
-
-
